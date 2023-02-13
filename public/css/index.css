@@ -18,7 +18,7 @@ body {
 }
 
 .coverimage {
-  background-image: url("/public/images/decore.png") !important;
+  background-image: url("/public/images/decore.svg") !important;
   /* height: 780px !important; */
   /* background-attachment: fixed; */
   background-repeat: no-repeat;
@@ -2618,4 +2618,12 @@ background-color: #FFF1DA;
  .storefooter{
   padding-left: 0px;
  }
+}
+.cg{
+  background-image: url("/public/images/decore.svg") !important;
+  /* height: 780px !important; */
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment:fixed;
 }
